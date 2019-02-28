@@ -1,0 +1,12 @@
+*1-1U1
+
+[Input]
+S30.0	Beacon_Light
+S30.1	Landing_Lights
+S30.2	Taxi_Lights
+S30.3	Nav_Lights
+S30.4	Strobe_Light
+S30.5	Wing_Lights
+S30.6	Recog_Light
+S30.7	Panel_Lights
+S30.8	Panel_Light_Switch
